@@ -239,7 +239,7 @@ const HomePage = () => {
             {/* Portfolio */}
             <div className="bg-slate-100 p-6 rounded-lg shadow-lg">
               <img
-                src="/portofolio.png"
+                src="/portfolio.png"
                 alt="Portfolio Image"
                 className="w-full h-48 md:h-64 object-cover rounded-t-lg"
               />

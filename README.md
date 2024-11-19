@@ -1,6 +1,6 @@
 # Portfolio
 
-![Portfolio Screenshot](public/portofolio.png)
+![Portfolio Screenshot](public/portfolio.png)
 
 ## Descripción
 
@@ -27,7 +27,7 @@ Para correr este proyecto localmente, sigue estos pasos:
 
 1. Clona el repositorio:
     ```bash
-    git clone https://github.com/juangabrieeel/portofolio.git
+    git clone https://github.com/juangabrieeel/portfolio.git
     ```
 2. Navega al directorio del proyecto:
     ```bash
