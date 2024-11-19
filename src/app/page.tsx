@@ -164,59 +164,64 @@ const HomePage = () => {
               </div>
             </div>
 
-
-
-            {/* Smart Query */}
+            {/* ERP */}
             <div className="bg-slate-100 p-6 rounded-lg shadow-lg">
               <img
-                src="/SmartQuery.PNG"
-                alt="Smart Query Image"
+                src="/erp.jpg"
+                alt="ERP Image"
                 className="w-full h-48 md:h-64 object-cover rounded-t-lg"
               />
               <h3 className="text-2xl md:text-3xl font-semibold my-4 text-gray-900">
-                En construcción...
+                ERP
               </h3>
               <p className="text-base md:text-lg mb-4 text-gray-800">
-                An online platform that allows users to access and interact with
-                SQL data using natural language queries, leveraging advanced
-                OpenAI technology like GPT.
+                I developed an ERP in EVO SYN together with a team of developers
+                to facilitate work management. NoSQL database and JavaScript
+                frameworks
               </p>
               <div className="flex items-center mb-4">
                 <Image
                   width={10}
                   height={10}
-                  src="/docker.svg"
+                  src="/logos/nodejs.svg"
+                  alt="NODE Image"
+                  className="w-10 h-10 mr-2"
+                />
+                <Image
+                  width={10}
+                  height={10}
+                  src="/logos/vuejs.svg"
+                  alt="Vuejs Image"
+                  className="w-10 h-10 mr-2"
+                />
+                <Image
+                  width={10}
+                  height={10}
+                  src="/logos/mongodb.svg"
+                  alt="Mongo Image"
+                  className="w-10 h-10 mr-2"
+                />
+                <Image
+                  width={10}
+                  height={10}
+                  src="/logos/github.svg"
+                  alt="Github Image"
+                  className="w-10 h-10 mr-2"
+                />
+                <Image
+                  width={10}
+                  height={10}
+                  src="/logos/docker.svg"
                   alt="Docker Image"
-                  className="w-10 h-10 mr-2"
-                />
-                <Image
-                  width={10}
-                  height={10}
-                  src="/rabbitmq.svg"
-                  alt="RabbitMQ Image"
-                  className="w-10 h-10 mr-2"
-                />
-                <Image
-                  width={10}
-                  height={10}
-                  src="/openai.svg"
-                  alt="OpenAI Image"
-                  className="w-10 h-10 mr-2"
-                />
-                <Image
-                  width={10}
-                  height={10}
-                  src="/react.svg"
-                  alt="React Image"
                   className="w-10 h-10 mr-2"
                 />
               </div>
               <div className="flex space-x-4">
                 <a
-                  href="https://github.com/Riemann-def/smart-query"
+                  href="https://www.linkedin.com/company/evolution-synergetique?originalSubdomain=es"
                   className="bg-black text-white px-4 py-2 rounded"
                 >
-                  View Code
+                  View EVO SYN
                 </a>
               </div>
             </div>
@@ -332,10 +337,7 @@ const HomePage = () => {
                 />
               </div>
               <div className="flex space-x-4">
-                <a
-                  href=""
-                  className="bg-black text-white px-4 py-2 rounded"
-                >
+                <a href="" className="bg-black text-white px-4 py-2 rounded">
                   View Case Study
                 </a>
               </div>
