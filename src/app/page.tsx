@@ -156,7 +156,7 @@ const HomePage = () => {
               </div>
               <div className="flex space-x-4">
                 <a
-                  href="https://wippass.com"
+                  href="https://github.com/juangabrieeel?tab=repositories"
                   className="bg-black text-white px-4 py-2 rounded"
                 >
                   View Code
@@ -283,7 +283,7 @@ const HomePage = () => {
               </div>
               <div className="flex space-x-4">
                 <a
-                  href="https://github.com/Riemann-def/portfolio"
+                  href="https://github.com/juangabrieeel/portfolio"
                   className="bg-black text-white px-4 py-2 rounded"
                 >
                   View Code
