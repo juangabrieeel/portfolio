@@ -75,7 +75,7 @@ const HomePage = () => {
         </div>
         <div className="flex space-x-8 mt-8 relative z-10">
           <a
-            href="https://github.com/juangabrieeelf"
+            href="https://github.com/juangabrieeel"
             className="text-slate-900 hover:text-blue-500"
           >
             <FaGithub size={52} />
@@ -291,54 +291,42 @@ const HomePage = () => {
               </div>
             </div>
 
-            {/* Proyecto Anomalias */}
+            {/* Proyecto consumo de API*/}
             <div className="bg-slate-100 p-6 rounded-lg shadow-lg">
               <img
-                src="/result.gif"
+                src="/rickymorty.gif"
                 alt="Project 2 Image"
                 className="w-full h-48 md:h-64 object-cover rounded-t-lg"
               />
               <h3 className="text-2xl md:text-3xl font-semibold my-4 text-gray-900">
-                En construcción...
+                Angular (With API)
               </h3>
               <p className="text-base md:text-lg mb-4 text-gray-800">
-                A Flask application that simulates API performance and detects
-                anomalies using AI algorithms. It offers real-time monitoring
-                and visualization of key API metrics.
+                Web application that uses an external API to obtain the
+                characters of an animated series. Using Angular and CSS.
               </p>
               <div className="flex items-center mb-4">
                 <Image
                   width={10}
                   height={10}
-                  src="/logos/docker.svg"
-                  alt="Docker Image"
+                  src="/logos/angular.svg"
+                  alt="Angular Image"
                   className="w-10 h-10 mr-2"
                 />
                 <Image
                   width={10}
                   height={10}
-                  src="/grafana.svg"
-                  alt="Grafana Image"
-                  className="w-10 h-10 mr-2"
-                />
-                <Image
-                  width={10}
-                  height={10}
-                  src="/prometheus.svg"
-                  alt="Prometheus Image"
-                  className="w-10 h-10 mr-2"
-                />
-                <Image
-                  width={10}
-                  height={10}
-                  src="/flask.svg"
-                  alt="Flask Image"
+                  src="/logos/api.svg"
+                  alt="API Image"
                   className="w-10 h-10 mr-2"
                 />
               </div>
               <div className="flex space-x-4">
-                <a href="" className="bg-black text-white px-4 py-2 rounded">
-                  View Case Study
+                <a
+                  href="https://github.com/juangabrieeel/Rick_and_Morty"
+                  className="bg-black text-white px-4 py-2 rounded"
+                >
+                  View Code
                 </a>
               </div>
             </div>
