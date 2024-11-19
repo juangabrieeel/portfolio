@@ -1,6 +1,6 @@
 # Portfolio
 
-![Portfolio Screenshot](public/portofolio.jpng)
+![Portfolio Screenshot](public/portofolio.png)
 
 ## Descripción
 
