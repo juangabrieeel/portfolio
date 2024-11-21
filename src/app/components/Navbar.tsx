@@ -44,7 +44,7 @@ const Navbar = () => {
                     <Link href="#experience" className="mx-2 hover:text-gray-300">
                         Experience
                     </Link>
-                    <a href="/CV_Juan_Gabriel.pdf" download className="mx-2 text-blue-500 hover:text-gray-300">
+                    <a href="/CV_JuanGabriel.pdf" download className="mx-2 text-blue-500 hover:text-gray-300">
                         Resume
                     </a>
 
