@@ -10,7 +10,7 @@ const technologies = [
   "/logos/vuejs.svg", // Vue.js
   "/logos/nodejs.svg", // Node.js
   "/logos/angular.svg", // Angular
-  "/logos/spring-boot.svg", // Spring Boot
+  "/logos/react.svg", // React
 ];
 
 const LogoCarousel = () => {

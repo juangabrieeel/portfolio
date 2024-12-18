@@ -142,6 +142,13 @@ const HomePage = () => {
                 <Image
                   width={10}
                   height={10}
+                  src="/logos/css3.svg"
+                  alt="CSS Image"
+                  className="w-10 h-10 mr-2"
+                />
+                <Image
+                  width={10}
+                  height={10}
                   src="/logos/mysql.svg"
                   alt="MySQL Image"
                   className="w-10 h-10 mr-2"
@@ -151,6 +158,13 @@ const HomePage = () => {
                   height={10}
                   src="/logos/github.svg"
                   alt="MySQL Image"
+                  className="w-10 h-10 mr-2"
+                />
+                <Image
+                  width={10}
+                  height={10}
+                  src="/logos/docker.svg"
+                  alt="Docker Image"
                   className="w-10 h-10 mr-2"
                 />
               </div>
@@ -190,6 +204,20 @@ const HomePage = () => {
                 <Image
                   width={10}
                   height={10}
+                  src="/logos/angular.svg"
+                  alt="Angular Image"
+                  className="w-10 h-10 mr-2"
+                />
+                <Image
+                  width={10}
+                  height={10}
+                  src="/logos/react.svg"
+                  alt="React Image"
+                  className="w-10 h-10 mr-2"
+                />
+                <Image
+                  width={10}
+                  height={10}
                   src="/logos/vuejs.svg"
                   alt="Vuejs Image"
                   className="w-10 h-10 mr-2"
@@ -199,6 +227,13 @@ const HomePage = () => {
                   height={10}
                   src="/logos/mongodb.svg"
                   alt="Mongo Image"
+                  className="w-10 h-10 mr-2"
+                />
+                <Image
+                  width={10}
+                  height={10}
+                  src="/logos/tailwind.svg"
+                  alt="Tailwind Image"
                   className="w-10 h-10 mr-2"
                 />
                 <Image
@@ -316,8 +351,22 @@ const HomePage = () => {
                 <Image
                   width={10}
                   height={10}
+                  src="/logos/typescript.svg"
+                  alt="TypeScript Image"
+                  className="w-10 h-10 mr-2"
+                />
+                <Image
+                  width={10}
+                  height={10}
                   src="/logos/api.svg"
                   alt="API Image"
+                  className="w-10 h-10 mr-2"
+                />
+                <Image
+                  width={10}
+                  height={10}
+                  src="/logos/css3.svg"
+                  alt="CSS Image"
                   className="w-10 h-10 mr-2"
                 />
               </div>
