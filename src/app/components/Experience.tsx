@@ -4,7 +4,43 @@ const Experience = () => {
       {/* Item #1 */}
       <div className="relative pl-8 sm:pl-32 py-6 group">
         <div className="font-caveat font-medium text-2xl text-indigo-500 mb-1 sm:mb-0">
-          Professional Experience
+          Software Developer
+        </div>
+        <div className="flex flex-col sm:flex-row items-start mb-1 group-last:before:hidden before:absolute before:left-2 sm:before:left-0 before:h-full before:px-px before:bg-slate-300 sm:before:ml-[6.5rem] before:self-start before:-translate-x-1/2 before:translate-y-3 after:absolute after:left-2 sm:after:left-0 after:w-2 after:h-2 after:bg-indigo-600 after:border-4 after:box-content after:border-slate-50 after:rounded-full sm:after:ml-[6.5rem] after:-translate-x-1/2 after:translate-y-1.5">
+          <time className="sm:absolute left-0 translate-y-0.5 inline-flex items-center justify-center text-xs font-semibold uppercase w-20 h-6 mb-3 sm:mb-0 text-emerald-600 bg-emerald-100 rounded-full">
+            Mar 2025 – Present
+          </time>
+          <div className="text-xl font-bold text-slate-900">Deister Software</div>
+        </div>
+        <div className="text-slate-500">
+          Designed, developed, and maintained business applications using JavaScript, SQL, XSQL, and XML within the Axional platform.  
+          Collaborated with cross-functional teams to define technical requirements, plan deliveries, and ensure high-quality, maintainable code.  
+          Engaged directly with clients to gather requirements, customize solutions, and deliver tailored functionalities aligned with business needs.
+        </div>
+      </div>
+
+      {/* Item #2 */}
+      <div className="relative pl-8 sm:pl-32 py-6 group">
+        <div className="font-caveat font-medium text-2xl text-indigo-500 mb-1 sm:mb-0">
+          AI Content and Model Reviewer
+        </div>
+        <div className="flex flex-col sm:flex-row items-start mb-1 group-last:before:hidden before:absolute before:left-2 sm:before:left-0 before:h-full before:px-px before:bg-slate-300 sm:before:ml-[6.5rem] before:self-start before:-translate-x-1/2 before:translate-y-3 after:absolute after:left-2 sm:after:left-0 after:w-2 after:h-2 after:bg-indigo-600 after:border-4 after:box-content after:border-slate-50 after:rounded-full sm:after:ml-[6.5rem] after:-translate-x-1/2 after:translate-y-1.5">
+          <time className="sm:absolute left-0 translate-y-0.5 inline-flex items-center justify-center text-xs font-semibold uppercase w-20 h-6 mb-3 sm:mb-0 text-emerald-600 bg-emerald-100 rounded-full">
+            Jan – Mar 2025
+          </time>
+          <div className="text-xl font-bold text-slate-900">Outlier</div>
+        </div>
+        <div className="text-slate-500">
+          Reviewed and optimized AI-generated content to ensure accuracy, consistency, and adherence to linguistic and ethical standards.  
+          Evaluated and improved large language model outputs to enhance contextual understanding and factual reliability.  
+          Provided detailed feedback to research teams, contributing to continuous model improvement and dataset refinement.
+        </div>
+      </div>
+
+      {/* Item #3 */}
+      <div className="relative pl-8 sm:pl-32 py-6 group">
+        <div className="font-caveat font-medium text-2xl text-indigo-500 mb-1 sm:mb-0">
+          Desarrollador de software(Formación dual)
         </div>
         <div className="flex flex-col sm:flex-row items-start mb-1 group-last:before:hidden before:absolute before:left-2 sm:before:left-0 before:h-full before:px-px before:bg-slate-300 sm:before:ml-[6.5rem] before:self-start before:-translate-x-1/2 before:translate-y-3 after:absolute after:left-2 sm:after:left-0 after:w-2 after:h-2 after:bg-indigo-600 after:border-4 after:box-content after:border-slate-50 after:rounded-full sm:after:ml-[6.5rem] after:-translate-x-1/2 after:translate-y-1.5">
           <time className="sm:absolute left-0 translate-y-0.5 inline-flex items-center justify-center text-xs font-semibold uppercase w-20 h-6 mb-3 sm:mb-0 text-emerald-600 bg-emerald-100 rounded-full">
@@ -22,10 +58,10 @@ const Experience = () => {
         </div>
       </div>
 
-      {/* Item #2 */}
+      {/* Item #4 */}
       <div className="relative pl-8 sm:pl-32 py-6 group">
         <div className="font-caveat font-medium text-2xl text-indigo-500 mb-1 sm:mb-0">
-          Professional Experience
+          Desarrollador web (Prácticas)
         </div>
         <div className="flex flex-col sm:flex-row items-start mb-1 group-last:before:hidden before:absolute before:left-2 sm:before:left-0 before:h-full before:px-px before:bg-slate-300 sm:before:ml-[6.5rem] before:self-start before:-translate-x-1/2 before:translate-y-3 after:absolute after:left-2 sm:after:left-0 after:w-2 after:h-2 after:bg-indigo-600 after:border-4 after:box-content after:border-slate-50 after:rounded-full sm:after:ml-[6.5rem] after:-translate-x-1/2 after:translate-y-1.5">
           <time className="sm:absolute left-0 translate-y-0.5 inline-flex items-center justify-center text-xs font-semibold uppercase w-20 h-6 mb-3 sm:mb-0 text-emerald-600 bg-emerald-100 rounded-full">
